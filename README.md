@@ -4,6 +4,8 @@ In an environment where SGPP (Security Group per Pod) pods are created and repea
 
 ## Git Repositories
 
+* [aws-terraform](https://github.com/ssup2-playground/eks-sgpp-network-issue_aws-terraform) : Terraform to reproduce issue
+
 ## My Contributions
 
 * Identify the cause of intermittent communication issue between pods when using sgpp.
