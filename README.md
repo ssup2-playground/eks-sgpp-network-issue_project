@@ -4,6 +4,8 @@ In an environment where SGPP (Security Group per Pod) pods are created and repea
 
 ## Git Repositories
 
+eks-sgpp-network-issue project is composed of the following git repositories.
+
 * [aws-terraform](https://github.com/ssup2-playground/eks-sgpp-network-issue_aws-terraform) : Terraform to reproduce issue
 
 ## My Contributions
