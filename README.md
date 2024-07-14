@@ -33,8 +33,8 @@ Previously, the default IP cooldown time was 30 seconds and could not be set by 
 
 ### How Test
 
-1. Create EKS cluster with this terraform
-2. Run `test/test.sh`
+1. Create EKS cluster with [aws-terraform](https://github.com/ssup2-playground/eks-sgpp-network-issue_aws-terraform)
+2. Run `test/test.sh` in [aws-terraform](https://github.com/ssup2-playground/eks-sgpp-network-issue_aws-terraform)
 3. Count `Error` status pods
 
 ### Result
